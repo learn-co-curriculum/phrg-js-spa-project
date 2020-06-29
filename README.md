@@ -38,7 +38,7 @@ In order to demonstrate your proficiency with what you've learned about web deve
 
 4. The backend and frontend must collaborate to demonstrate Client-Server Communication. Your application should have at least 3 AJAX calls, one or more of which should not be a GET request. Your client-side JavaScript code must use `fetch` with the appropriate HTTP verb, and your Rails API should use RESTful conventions.
 
-5. Your Ruby code should adhere to Nitro's linting conventions.
+5. Your Ruby code should adhere to Nitro's linting conventions. Included in this repo is a copy of those configurations (`.rubocop.yml`).
 
 Within these constraints, there is a huge variety of applications that you might build. Take some time to brainstorm the application you'd like to build. Take a look at the [example projects](#example-projects) at the bottom of this page for inspiration. You should build something that you are excited to talk about. That means being excited about the features you build and the technology that you use. Check in with your instructor before getting started to make sure your idea will meet the criteria above.
 
