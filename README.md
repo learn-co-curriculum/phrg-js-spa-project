@@ -38,7 +38,11 @@ In order to demonstrate your proficiency with what you've learned about web deve
 
 4. The backend and frontend must collaborate to demonstrate Client-Server Communication. Your application should have at least 3 AJAX calls, one or more of which should not be a GET request. Your client-side JavaScript code must use `fetch` with the appropriate HTTP verb, and your Rails API should use RESTful conventions.
 
+5. Your Ruby code should adhere to Nitro's linting conventions.
+
 Within these constraints, there is a huge variety of applications that you might build. Take some time to brainstorm the application you'd like to build. Take a look at the [example projects](#example-projects) at the bottom of this page for inspiration. You should build something that you are excited to talk about. That means being excited about the features you build and the technology that you use. Check in with your instructor before getting started to make sure your idea will meet the criteria above.
+
+After deciding on your project's goal, check out the [Project Planning Tips](https://github.com/powerhome/phrg-js-spa-project/blob/master/project-planning-tips.md) included in this repository.
 
 ### Best Practices
 
@@ -78,7 +82,7 @@ javascript-project/
   README.md
 ```
 
-For more about setting up your backend, you can reference the lesson on [Creating a Rails API from Scratch](https://github.com/learn-co-curriculum/js-rails-as-api-creating-a-rails-api-from-scratch).
+For more about setting up your backend, reference the lesson on [Creating a Rails API from Scratch](https://github.com/learn-co-curriculum/js-rails-as-api-creating-a-rails-api-from-scratch) and the [Setup Walkthrough](https://github.com/powerhome/phrg-js-spa-project/blob/master/setup-walkthrough.md) included in this repository.
 
 ## <a id="what-to-expect-in-your-project-review"></a>What To Expect In Your Project Review
 
@@ -114,7 +118,6 @@ These are the skills and knowledge that you should aim to demonstrate through th
 - Attach listeners to DOM nodes to respond to user interaction
 - Use `preventDefault` to control form submit behavior
 - Use `fetch` with 'GET', 'POST', 'PATCH' & 'DELETE' HTTP methods
-- Create a JavaScript object with ES6 class syntax
 - Instantiate JavaScript objects and call methods on them.
 
 ## <a id="example-projects"></a>Example Projects
