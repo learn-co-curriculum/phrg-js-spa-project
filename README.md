@@ -32,7 +32,7 @@ In order to demonstrate your proficiency with what you've learned about web deve
 
 1. The application must be an HTML, CSS, and JavaScript frontend with a Rails API backend. All interactions between the client and the server must be handled asynchronously (AJAX) and use JSON as the communication format.
 
-2. The JavaScript application be organized by encapsulating related data and behavior. This can be acheived through JS object composition, Object Oriented JavaScript (`class`es), or some combination of these approaches.
+2. The JavaScript application be organized by encapsulating related data and behavior. This can be acheived through Object Oriented JavaScript (`class`es), Object composition, or some combination of these approaches.
 
 3. The domain model served by the Rails backend must include a resource with at least one has-many relationship. For example, if you were building an Instagram clone, you might display a list of photos with associated comments.
 

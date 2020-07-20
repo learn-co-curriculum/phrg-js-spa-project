@@ -36,7 +36,7 @@ When you create a new Rails application, Rails provides you with a ton of stuff 
 In your terminal, enter:
 
 ```bash
-rails new walkthrough-backend --api --database=postgresql
+rails new walkthrough-backend --api --database=postgresql --skip-git
 ```
 
 For your project, `rails new <my_app_name> --api`. _(Replace `<my_app_name>` with the actual name of your project)_
@@ -126,7 +126,7 @@ In `index.html`, you need to add some HTML. Text editors will often have a short
     <title></title>
   </head>
   <body>
-   Sample text - replace me! 
+   Sample text - replace me!
   </body>
 </html>
 ```
@@ -193,8 +193,8 @@ Some things to consider:
 - To _show_ your nouns, you'll need:
 
   1. A controller action to send the data
-  2. A fetch request to ask for the data 
-  3. Some JavaScript code to handle DOM-rendering 
+  2. A fetch request to ask for the data
+  3. Some JavaScript code to handle DOM-rendering
 
 - To make your page respond to the user, you'll need _event listeners_
 - To keep your code clean, you should use JavaScript _classes_
