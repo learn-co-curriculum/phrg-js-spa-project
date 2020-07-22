@@ -51,8 +51,8 @@ You are encouraged to follow development best practices while you are building y
 #### JavaScript
 
 - [ ] Organize your code into reusable pieces.
-- [ ] Translate JSON responses using ES6 class or constructor function syntax.
-- [ ] Use ES6 features when appropriate (e.g. arrow functions, `let` & `const`, rest and spread syntax).
+- [ ] Translate JSON responses.
+- [ ] Use ES6 features (e.g. arrow functions, `let` & `const`, rest and spread syntax).
 
 #### Rails
 
